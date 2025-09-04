@@ -1,0 +1,750 @@
+Utterance,Speaker,Dialogue_ID,Emotion,Video_Path,Start_Time,End_Time,Duration
+So my voice can get really high and,0,104-17-720x480.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_1.mp4,0.54,3.08,2.54
+"I kind of want to be a voice actor. Well,",0,104-17-720x480.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_2.mp4,3.84,6.52,2.68
+"Well, I wouldn't mind being one.",0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_3.mp4,6.6,8.04,1.4399999999999995
+so not using anything to change,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_4.mp4,9.6,11.52,1.92
+change my,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_5.mp4,12.62,13.08,0.4600000000000008
+my voice.,0,104-17-720x480.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_6.mp4,13.6,15.08,1.4800000000000004
+"Alright, what",0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_7.mp4,16.34,17.0,0.6600000000000001
+can I say?,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_8.mp4,17.74,18.5,0.7600000000000016
+Tell you a little about myself.,0,104-17-720x480.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_9.mp4,19.8,21.46,1.66
+my name is Izzy.,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_10.mp4,22.8,24.28,1.4800000000000004
+like to play video games like COD and,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_11.mp4,24.86,27.48,2.620000000000001
+and what,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_12.mp4,27.62,28.44,0.8200000000000003
+what else do I do? I listen to dubstep.,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_13.mp4,29.56,32.12,2.5599999999999987
+just kind of chill around my house and do whatever. I just go on my laptop or hang,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_14.mp4,34.72,39.28,4.560000000000002
+hang out with my friends.,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_15.mp4,39.54,41.1,1.5600000000000025
+"mean, I'm a tomboy, but I don't really look like a tomboy.",0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_16.mp4,41.7,44.84,3.140000000000001
+I live in Illinois.,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_17.mp4,48.82,50.66,1.8399999999999963
+I'm from Chicago.,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_18.mp4,50.88,52.14,1.259999999999998
+"And,",0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_19.mp4,52.74,53.54,0.7999999999999972
+"um, I'm",0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_20.mp4,54.4,55.32,0.9200000000000016
+I'm a junior in high school.,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_21.mp4,55.68,57.18,1.5
+"So yeah, that's my",0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_22.mp4,58.6,59.92,1.3200000000000005
+so -called girly voice that I do.,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_23.mp4,60.88,62.78,1.8999999999999984
+And I could just imagine someone,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_24.mp4,64.26,67.06,2.799999999999997
+"like, with",0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_25.mp4,68.0,68.44,0.4399999999999977
+with that voice being like a little girl as a cartoon character or some,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_26.mp4,68.64,72.24,3.5999999999999943
+some kind of like,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_27.mp4,72.32,73.28,0.960000000000008
+talking animal or,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_28.mp4,74.32,75.5,1.1800000000000068
+or,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_29.mp4,76.04,76.42,0.3799999999999954
+whatever.,0,104-17-720x480.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_30.mp4,77.94,79.02,1.0799999999999983
+Peace.,0,104-17-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/104-17-720x480_utterance_31.mp4,79.94,80.48,0.5400000000000063
+you to the Academy for this incredible recognition. It,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_161.mp4,11.26,14.8,3.540000000000001
+It doesn't escape,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_162.mp4,15.18,15.96,0.7800000000000011
+escape me for one moment that so much joy in my life is,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_163.mp4,16.08,19.54,3.460000000000001
+is thanks to so much pain in someone else's. And,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_164.mp4,19.9,22.46,2.5600000000000023
+And so I want to salute the spirit of Patsy for,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_165.mp4,22.86,25.56,2.7
+for her guidance.,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_166.mp4,25.82,26.82,1.0
+"And for Solomon, thank you for telling her story and your own.",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_167.mp4,27.18,30.8,3.620000000000001
+"Steve McQueen, you",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_168.mp4,32.0,33.22,1.2199999999999989
+you charge,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_169.mp4,33.74,34.52,0.7800000000000011
+charge everything you fashion with a breath of your own spirit.,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_170.mp4,34.64,38.2,3.5600000000000023
+Thank you so much for,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_171.mp4,40.14,41.88,1.740000000000002
+for putting me in this position.,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_172.mp4,42.3,44.52,2.220000000000006
+It has been the joy of my life.,0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_173.mp4,45.2,47.48,2.279999999999994
+"I'm certain that the dead are standing about you and wondering, and they are watching and they are grateful, and so am I.",0,114-30-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_174.mp4,56.7,61.82,5.119999999999997
+"Chur Tel, thank you for your fearlessness and",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_175.mp4,62.5,65.02,2.519999999999996
+"and how deeply you went into telling Solomon's story. Michael Fassbender, thank you so much. You were my rock.",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_176.mp4,65.34,72.96,7.61999999999999
+"Alfre and Sarah, it was a thrill to work with you. Joe Walker, the invisible performer in the editing room, thank you. Sean Bobbitt, Calla",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_177.mp4,73.12,81.4,8.280000000000001
+"Calla Davey, Adruthah, Patty",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_178.mp4,81.62,83.92,2.299999999999997
+"Patty Norris, thank you, thank you, thank you. I could not be here without your work. Thank",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_179.mp4,84.32,88.72,4.400000000000006
+"Thank you. Thank my family for your training. And the Yale School of Drama as well for your training. My friends, the",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_180.mp4,88.8,98.68,9.88000000000001
+"the Wilsons, this",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_181.mp4,99.2,100.38,1.1799999999999926
+this one's for you. My,0,114-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_182.mp4,100.48,101.9,1.4200000000000017
+"My brother, Junior, sitting by my side.",0,114-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_183.mp4,101.94,105.38,3.4399999999999977
+"Thank you so much. You're my best friend. And Ben, my other best friend, my chosen family. When",0,114-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_184.mp4,105.74,112.54,6.800000000000011
+"When I look down at this golden statue, may",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_185.mp4,112.88,115.4,2.5200000000000102
+"may it remind me and every little child that no matter where you're from, your dreams are valid. Thank you.",0,114-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/114-30-1280x720_utterance_186.mp4,115.46,122.04,6.5800000000000125
+my name is Sachin Littlefeather. I'm,0,118-30-640x480.mp4,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/118-30-640x480.mp4,0.7,2.68,1.98
+I'm Apache and,0,118-30-640x480.mp4,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/118-30-640x480.mp4,3.02,4.08,1.06
+and I'm president of the National Native American Affirmative Image Committee.,0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_187.mp4,4.2,8.98,4.78
+I'm representing Marlon Brando this evening and,0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_188.mp4,9.54,12.0,2.460000000000001
+he has asked me to tell you in,0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_189.mp4,12.46,14.26,1.799999999999999
+"in a very long speech, which I cannot share with you presently because",0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_190.mp4,14.4,18.06,3.6599999999999984
+"because of time, but",0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_191.mp4,18.86,19.94,1.0800000000000018
+"but I will be glad to share with the press afterwards, that",0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_192.mp4,20.46,23.24,2.7799999999999976
+that he very regretfully cannot,0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_193.mp4,23.64,25.58,1.9399999999999973
+cannot accept this,0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_194.mp4,25.9,27.0,1.1000000000000014
+this very generous award.,0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_195.mp4,27.64,29.56,1.9199999999999984
+And the reasons for this being are,0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_196.mp4,30.54,32.44,1.8999999999999984
+are the treatment of American Indians today by,0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_197.mp4,33.0,36.1,3.1000000000000014
+"by the film industry, excuse",0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_198.mp4,36.48,38.14,1.6600000000000037
+"excuse me,",0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_199.mp4,39.34,40.2,0.8599999999999994
+on television in movie reruns and,0,118-30-640x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_200.mp4,49.32,52.2,2.8800000000000026
+and also with recent happenings at Wounded Knee.,0,118-30-640x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_201.mp4,53.28,56.5,3.219999999999999
+I beg at this time that I have not intruded. Upon,0,118-30-640x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_202.mp4,57.26,60.06,2.8000000000000043
+Upon this evening and,0,118-30-640x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_203.mp4,60.54,61.72,1.1799999999999995
+that we will in,0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_204.mp4,62.3,63.54,1.240000000000002
+"the future, our",0,118-30-640x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_205.mp4,64.0,65.1,1.0999999999999943
+our hearts and,0,118-30-640x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_206.mp4,65.58,66.52,0.9399999999999976
+and our understandings will,0,118-30-640x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_207.mp4,66.68,68.14,1.4599999999999935
+will meet with love and generosity. Thank,0,118-30-640x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_208.mp4,68.44,71.0,2.5600000000000023
+Thank you on behalf of Marlon Brando.,0,118-30-640x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/118-30-640x480_utterance_209.mp4,71.36,73.68,2.3200000000000074
+Oh,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_210.mp4,0.44,0.88,0.44
+If you ever wondered where they came from,0,119.avi,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_215.mp4,12.02,23.36,11.34
+They've been on this planet far longer than we have they're,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_216.mp4,24.12,27.52,3.3999999999999986
+"they're all different, but",0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_217.mp4,27.9,29.34,1.4400000000000013
+but they all share the same goal,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_218.mp4,29.76,31.9,2.139999999999997
+To find the biggest baddest villain to serve,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_219.mp4,33.68,37.14,3.460000000000001
+Finding a master was easy,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_222.mp4,46.64,52.84,6.200000000000003
+But it was not easy for these guys Keeping a master,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_224.mp4,55.36,60.66,5.299999999999997
+it wasn't easy for these guys,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_226.mp4,67.82,71.12,3.300000000000012
+But nonetheless they kept on looking,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_227.mp4,73.5,77.06,3.5600000000000023
+Oh Hello papagena to a better gun up a biya,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_228.mp4,85.32,89.8,4.480000000000004
+gentle Have,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_229.mp4,90.5,91.88,1.3799999999999957
+any of you ever dream of working for the greatest super villain of all time,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_230.mp4,94.9,101.48,6.579999999999998
+These are,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_232.mp4,105.2,107.2,2.0
+"are the new recruits No, no, don't say anything I won't understand I'm a very good woman and I say no women Do you know who this is? La cucaracha? This is Queen Elizabeth And I really really really want her crown You came for the queen's crown, did you? Well you're gonna have to get through me",0,119.avi,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_233.mp4,107.38,131.4,24.02000000000001
+Hahahahaha Well you know that's a bit loud Oh Oh,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_234.mp4,131.76,135.44,3.680000000000007
+Oh ha,0,119.avi,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/119.avi,135.62,136.44,0.8199999999999932
+ha ha ha,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_235.mp4,136.64,137.4,0.7600000000000193
+Patrona Who's an Anna? What? What is it? Hold on Hahahahaha La la la Gentlemen Do not steal ladies crowns Hahahahaha I'm not gonna miss it bud Eva,0,119.avi,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_236.mp4,137.68,153.6,15.919999999999987
+You backstabbing little traitor Yakitori Ah You,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_237.mp4,155.06,158.32,3.259999999999991
+You stole,0,119.avi,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/119.avi,158.36,159.62,1.259999999999991
+stole my crown,0,119.avi,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/119.avi,159.86,161.48,1.619999999999976
+Scarlet Don't you scarlet me I'd rather be the villain than get rid of you I don't want you to take this the wrong way but I hate you This is torture,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_238.mp4,162.58,171.92,9.339999999999977
+Ha ha ha ha Cut it out This is really unprofessional Ha,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_240.mp4,174.94,181.48,6.539999999999992
+ha ha Mmmmm,0,119.avi,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/119.avi,181.64,182.16,0.5200000000000102
+Mi pela Ah Mmmmm Ah Ah Ah Ah,0,119.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/119_utterance_241.mp4,184.18,190.86,6.680000000000007
+crazy? You'll wake up all the ghosts!,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,3.16,5.26,2.1
+Look out! The ghosts are showing ties!,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,5.72,7.96,2.24
+"Andy? Hi. Wow, look at you! I hear you're off to college. Yeah, right now actually. So, what",0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_362.mp4,12.56,20.24,7.679999999999998
+what can we do for you?,0,139-14-720x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_363.mp4,20.38,21.46,1.0800000000000018
+I have some toys here.,0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_364.mp4,22.86,24.2,1.34
+"you hear that, Bonnie?",0,139-14-720x480.mp4,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,24.8,26.12,1.3200000000000005
+You're Bonnie?,0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_365.mp4,27.5,28.46,0.9600000000000009
+Andy.,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,30.38,30.68,0.3000000000000007
+Some of the,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,32.2,32.66,0.4599999999999937
+are really good with toys.,0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_366.mp4,33.6,35.12,1.519999999999996
+"are mine, but",0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_367.mp4,36.02,36.7,0.6799999999999997
+but I'm,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,36.86,37.26,0.3999999999999986
+I'm going away now.,0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_368.mp4,38.18,39.24,1.0600000000000025
+really special,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,41.2,41.64,0.4399999999999977
+"roughest, toughest cowgirl in the whole West.",0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,51.72,53.72,2.0
+"but none more than her best pal, Bullseye.",0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,55.78,57.3,1.519999999999996
+"meanest, most terrified dinosaur who ever lived.",0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_369.mp4,78.0,80.52,2.519999999999996
+"heads,",0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,86.74,87.36,0.6200000000000045
+"gotta keep your mouth shut. I'm gonna keep them together, cause they're",0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_370.mp4,89.58,90.86,1.2800000000000011
+madly in love.,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,91.06,91.88,0.8199999999999932
+"Now, Slinky here is as loyal as any dog he could want.",0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_371.mp4,93.28,96.0,2.719999999999999
+Ham?,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,97.26,97.68,0.4200000000000017
+He'll keep your money safe.,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,98.24,99.4,1.1600000000000108
+dudes are from a strange alien world.,0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_372.mp4,108.94,111.3,2.3599999999999994
+this...,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,115.26,115.58,0.3199999999999932
+Buzz Lightyear! The,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,118.78,120.08,1.2999999999999972
+"coolest boy ever! Look,",0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,120.24,121.78,1.5400000000000065
+"Oh, and shoot lasers.",0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,123.72,124.76,1.0400000000000065
+protect the galaxy from,0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_373.mp4,126.26,126.98,0.7199999999999989
+got a promise to,0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_374.mp4,135.04,135.88,0.8400000000000034
+care of these,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,136.4,136.82,0.4199999999999875
+I'm so sorry. But I was worried about,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,148.82,150.08,1.260000000000019
+been my pal for,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,180.0,180.96,0.960000000000008
+long as I can remember.,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,181.68,182.3,0.6200000000000045
+brave.,0,139-14-720x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/139-14-720x480.mp4,184.06,184.46,0.4000000000000057
+Plushop's attacking the haunted bakery! The,0,139-14-720x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/139-14-720x480_utterance_375.mp4,222.56,224.62,2.0600000000000023
+"Alright, so this",0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_784.mp4,2.54,3.64,1.1
+is the second teaser trailer for Star Wars Episode 7.,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_785.mp4,4.64,8.24,3.6000000000000005
+And I was torn because I was waiting until Age of Ultron to,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_786.mp4,8.94,11.96,3.0200000000000014
+see it. But because of the Star Wars Celebration it was released today and I just have to watch it now. So,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_787.mp4,13.86,20.36,6.5
+So I'm in proper attire.,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_788.mp4,20.54,22.42,1.8800000000000023
+And here we go.,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_789.mp4,24.64,25.72,1.0799999999999983
+have that power too.,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_790.mp4,94.6,95.84,1.240000000000009
+"Oh, gosh.",0,162.avi,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/162.avi,98.2,98.74,0.539999999999992
+Chewie...,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_791.mp4,128.8,129.5,0.6999999999999886
+"Oh, gosh.",0,162.avi,joy,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/162.avi,135.52,136.16,0.6399999999999864
+"Okay. Okay, we can watch it again.",0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_793.mp4,144.6,146.82,2.219999999999999
+"Ooh, Ghibli's, Ghibli's, Ghibli's, Ghibli's.",0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_794.mp4,159.88,161.28,1.4000000000000057
+strong in my family.,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_795.mp4,185.74,186.8,1.0600000000000025
+I can't even.,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_796.mp4,217.66,219.68,2.0200000000000102
+I just can't.,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_797.mp4,220.6,221.34,0.7400000000000091
+"Chewie,",0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_798.mp4,243.68,244.46,0.7800000000000011
+we're home.,0,162.avi,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_799.mp4,245.98,246.56,0.5800000000000125
+it please just be Christmas already?,0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_800.mp4,256.74,259.72,2.980000000000018
+"JJ Abrams, I love you.",0,162.avi,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/162_utterance_801.mp4,261.08,263.04,1.9600000000000364
+Challenge,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_802.mp4,1.5,2.1,0.6000000000000001
+to,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_803.mp4,14.38,14.84,0.4599999999999991
+nášta omláčka,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_804.mp4,16.14,17.56,1.4199999999999982
+Extra pálivá Chilli,0,207.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_805.mp4,18.08,19.1,1.0200000000000031
+Chilli,0,207.mp4,fear,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_806.mp4,19.8,20.34,0.5399999999999991
+Já se bojím Tak,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_808.mp4,29.82,30.66,0.8399999999999999
+já budu,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_809.mp4,31.34,31.82,0.4800000000000004
+budu se modlit ať to vidíte,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_810.mp4,32.64,34.52,1.8800000000000023
+Takhle,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_811.mp4,46.08,46.86,0.7800000000000011
+Nemám tady nic na zapití,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_812.mp4,48.66,50.38,1.720000000000006
+Lidi jsou rádi,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_813.mp4,52.1,53.1,1.0
+rádi Když ostatní druzí trpí,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_814.mp4,53.56,56.14,2.5799999999999983
+Nevím jestli to říkám dobře To je jedno,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_815.mp4,57.12,58.78,1.6600000000000037
+Můžete se koukat na můj krásný ksich Jak u toho buby padat Ty,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_816.mp4,61.7,64.7,3.0
+piči já to nedám Já to nedám Čo,0,207.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_817.mp4,65.76,68.62,2.8599999999999994
+Čo jsi dander To musíš dát,0,207.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_818.mp4,68.88,71.52,2.640000000000001
+tomhle videu aspoň dejte like Za moje utrpení,0,207.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_819.mp4,78.34,80.8,2.4599999999999937
+Jasný Aspoň,0,207.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_820.mp4,81.54,82.22,0.6799999999999926
+Aspoň like za to utrpení,0,207.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_821.mp4,82.48,83.9,1.4200000000000017
+zase se podívejte Na můj,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_822.mp4,104.36,105.32,0.9599999999999936
+Takže Takže Takže Takže Takže,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_823.mp4,115.14,118.94,3.799999999999997
+Tak,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_824.mp4,126.34,126.88,0.539999999999992
+Tak Tak,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_825.mp4,127.24,127.98,0.7400000000000091
+Kouk,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_826.mp4,131.64,132.18,0.5400000000000205
+Kouk Tek City,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_827.mp4,132.66,133.6,0.9399999999999976
+City,0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_828.mp4,135.4,136.16,0.7599999999999909
+"Kurva, tak to nejde.",0,207.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/207_utterance_829.mp4,136.7,137.7,1.0
+And,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_830.mp4,1.78,2.76,0.9799999999999998
+"And there's a knock on your door and a man comes in, a grown man, not your brother.",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_831.mp4,2.84,6.0,3.16
+"And he's from NASA,",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_832.mp4,7.18,8.04,0.8599999999999994
+"NASA, you",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_833.mp4,8.76,9.36,0.5999999999999996
+"you know, the National Aeronautics and Space Administration.",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_834.mp4,9.84,11.9,2.0600000000000005
+And he has found out that you have a,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_835.mp4,12.58,14.12,1.5399999999999991
+"a creature, he doesn't know exactly what it would be, he has found out that you have a creature in your closet,",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_836.mp4,14.34,17.88,3.539999999999999
+creature that he's been looking for for a long time.,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_837.mp4,18.86,21.0,2.140000000000001
+"And you've had this creature now for three or four weeks, you've become best friends with it, and he wants to take the creature away.",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_838.mp4,21.92,25.8,3.879999999999999
+"And he's come with a search warrant, and he's come with permission to",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_839.mp4,26.38,28.4,2.02
+the creature away. And,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_840.mp4,28.66,29.32,0.6600000000000001
+you're not going to let him.,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_841.mp4,29.82,30.6,0.7800000000000011
+Okay?,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_842.mp4,31.76,32.02,0.2600000000000015
+"Now, young man, I understand that you have an alien somewhere in this house. Is that true?",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_843.mp4,34.94,39.08,4.140000000000001
+is it true? Is there an alien in this house?,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_844.mp4,43.18,45.14,1.9600000000000009
+"Well, as you know, I'm from the government.",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_845.mp4,47.34,49.2,1.86
+part of the,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_846.mp4,49.62,50.1,0.480000000000004
+"United States government, and I",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_847.mp4,50.6,52.12,1.519999999999996
+I am empowered to,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_848.mp4,52.46,53.56,1.1000000000000014
+to take that alien with me.,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_849.mp4,53.68,55.08,1.3999999999999986
+"But you can't take him away, he's mine.",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_850.mp4,55.58,57.78,2.200000000000003
+"Well, but...",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_851.mp4,58.4,58.76,0.3599999999999994
+The government is,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_852.mp4,59.36,60.28,0.9200000000000016
+"bigger than you are, Elliot.",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_853.mp4,60.48,61.96,1.480000000000004
+And I,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_854.mp4,62.4,62.82,0.4200000000000017
+"I really, I have all the authority to take him, and I've got to tell you, I'm",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_855.mp4,63.12,66.22,3.1000000000000014
+I'm going to take him.,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_856.mp4,66.88,67.74,0.8599999999999994
+can't take him.,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_857.mp4,69.44,70.22,0.7800000000000011
+"I'm afraid I have to, son.",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_859.mp4,73.6,75.14,1.5400000000000065
+"You can't take him away, he's mine!",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_860.mp4,75.68,77.82,2.1399999999999864
+"But it's not my choice. The president asked me to come here and get him. I don't care what the president says, he's my best friend.",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_861.mp4,78.38,85.26,6.88000000000001
+And you can't take him away!,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_862.mp4,85.68,87.26,1.5799999999999983
+"Well, it's real possible, Elliot, that he'll come back.",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_863.mp4,87.96,91.22,3.260000000000005
+And you can have him again. But,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_864.mp4,91.66,92.94,1.2800000000000011
+But we just want to talk to him and see where he came from and try,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_865.mp4,93.2,95.64,2.4399999999999977
+try to find out about other planets. And,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_866.mp4,96.0,98.4,2.4000000000000057
+"And he, he",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_867.mp4,98.64,99.26,0.6200000000000045
+he probably is the key to a lot of things that we have to know.,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_868.mp4,99.52,102.32,2.799999999999997
+But how do I know you're going to bring him back?,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_869.mp4,102.92,105.26,2.3400000000000034
+"Well,",0,25-25-600x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/25-25-600x480.mp4,106.14,106.46,0.3199999999999932
+"afraid, son, I can't guarantee it.",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_870.mp4,107.3,109.2,1.9000000000000057
+I think he's afraid of you.,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_871.mp4,109.94,111.82,1.879999999999996
+"That may be true, but the",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_872.mp4,113.44,114.64,1.2000000000000028
+the government tells me what to do. I,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_873.mp4,114.98,116.94,1.9599999999999933
+just follow their orders.,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_874.mp4,117.14,118.68,1.5400000000000065
+"Well, he's mine and he lives with me and he likes me. And",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_875.mp4,119.3,122.88,3.5799999999999983
+And he wants to stay here. He,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_876.mp4,123.22,124.82,1.5999999999999943
+He likes it here.,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_877.mp4,124.94,126.1,1.1599999999999966
+"Well, we",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_878.mp4,126.66,127.02,0.3599999999999994
+we wouldn't hurt him or anything. All,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_879.mp4,127.06,128.72,1.6599999999999966
+All we want to do is talk to him.,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_880.mp4,128.98,130.46,1.4800000000000182
+But I don't want you to take him away.,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_881.mp4,130.74,133.02,2.280000000000001
+"know, I've had to talk to your mom about it. And she",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_882.mp4,134.68,136.78,2.0999999999999943
+she knows that the government has the right to do it.,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_883.mp4,137.3,140.3,3.0
+And who told you all this?,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_884.mp4,142.02,143.66,1.6399999999999864
+"Well, we learned about it.",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_885.mp4,144.5,145.68,1.1800000000000068
+know that he's somewhere around here.,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_886.mp4,147.22,148.96,1.740000000000009
+"I mean, I do have a search warrant. I could look around the house.",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_887.mp4,149.86,152.56,2.6999999999999886
+Tell me to keep you out of it.,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_888.mp4,153.14,154.08,0.940000000000026
+Right.,0,25-25-600x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/25-25-600x480.mp4,155.94,156.2,0.2599999999999909
+"Well,",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_889.mp4,157.98,158.38,0.4000000000000057
+tell you what.,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_890.mp4,159.1,159.72,0.6200000000000045
+"you let me talk to him for five minutes, I'll",0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_891.mp4,160.38,162.16,1.7800000000000011
+I'll tell my boss that you can keep,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_892.mp4,162.42,163.84,1.420000000000016
+that be okay with you? If,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_893.mp4,165.64,166.78,1.1400000000000148
+I could just talk to him for,0,25-25-600x480.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_894.mp4,166.82,167.68,0.8600000000000136
+five minutes?,0,25-25-600x480.mp4,sadness,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/25-25-600x480.mp4,167.88,168.42,0.539999999999992
+you feel better then?,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_895.mp4,169.68,170.74,1.0600000000000025
+you be happy if you could keep him if all I had to do was talk to him for five minutes?,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_896.mp4,171.8,175.04,3.2399999999999807
+"might make your whole day, huh?",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_897.mp4,175.82,177.1,1.2800000000000011
+"Might make your whole life, huh?",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_898.mp4,177.98,179.38,1.4000000000000057
+Then he'd be your friend forever.,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_899.mp4,180.02,181.44,1.4199999999999875
+And I wouldn't take him away.,0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_900.mp4,181.88,183.14,1.259999999999991
+"Okay, okay.",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_901.mp4,183.94,184.56,0.6200000000000045
+"Okay, kid, you got the job.",0,25-25-600x480.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/25-25-600x480_utterance_902.mp4,186.36,187.54,1.1799999999999784
+"like the love in the notebook, the one that split the sky, man.",0,28-30-1280x720-3.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/28-30-1280x720-3_utterance_928.mp4,2.3,6.42,4.12
+Split the sky.,0,28-30-1280x720-3.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/28-30-1280x720-3_utterance_929.mp4,7.6,8.52,0.92
+You understand.,0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_930.mp4,2.62,3.92,1.2999999999999998
+You understand?,0,29-24-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_931.mp4,5.0,6.24,1.2400000000000002
+"No, you",0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_932.mp4,8.46,8.98,0.5199999999999996
+you don't understand.,0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_933.mp4,9.66,11.24,1.58
+You think just because you have your PhD and a framed certificate on the wall that you magically,0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_934.mp4,13.36,19.08,5.719999999999999
+magically know what I'm feeling.,0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_935.mp4,19.58,21.38,1.8000000000000007
+a load of crap.,0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_936.mp4,24.22,25.14,0.9200000000000016
+You're just doing,0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_937.mp4,27.32,27.96,0.6400000000000006
+"doing your job, making",0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_938.mp4,28.54,29.46,0.9200000000000016
+making your money.,0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_939.mp4,30.14,31.42,1.2800000000000011
+You've probably never cared about anyone in your life.,0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_940.mp4,32.44,35.08,2.640000000000001
+"Well, I do.",0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_941.mp4,38.42,39.56,1.1400000000000006
+care too much.,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_942.mp4,41.42,42.8,1.3799999999999957
+That's why I'm going,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_943.mp4,45.42,46.28,0.8599999999999994
+going crazy.,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_944.mp4,46.46,47.78,1.3200000000000005
+feel like I'm losing my mind.,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_945.mp4,48.86,51.22,2.3599999999999994
+time I see a woman who,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_946.mp4,53.06,54.74,1.6799999999999995
+"who even slightly resembles my mom, I swear",0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_947.mp4,55.82,58.28,2.460000000000001
+swear it's going to be her.,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_948.mp4,58.7,60.12,1.4199999999999946
+"here, now, smiling",0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_950.mp4,64.04,65.08,1.039999999999992
+smiling at me.,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_951.mp4,67.26,68.34,1.0799999999999983
+it never is.,0,29-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_952.mp4,71.7,72.74,1.039999999999992
+keep waking up in,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_953.mp4,76.66,77.8,1.1400000000000006
+"in the middle of the night, screaming,",0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_954.mp4,78.08,79.24,1.1599999999999966
+"screaming, all drenched in tears. I'm sweating. Yesterday, I",0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_955.mp4,79.58,82.74,3.1599999999999966
+I put my hand through a car window and shattered it to pieces.,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_956.mp4,83.22,86.64,3.4200000000000017
+My mom is dead.,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_957.mp4,89.02,91.18,2.160000000000011
+She's dead.,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_958.mp4,93.9,94.88,0.9799999999999898
+And I can't,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_959.mp4,95.94,96.44,0.5
+can't even cry because if,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_960.mp4,98.02,100.18,2.160000000000011
+"if I cry, that means I",0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_961.mp4,101.12,102.68,1.5600000000000025
+"I accept, really",0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_962.mp4,103.18,104.08,0.8999999999999915
+"really accept, that",0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_963.mp4,104.2,105.62,1.4200000000000017
+that she's gone.,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_964.mp4,106.14,107.32,1.1799999999999926
+can't do that. I,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_965.mp4,111.32,112.6,1.2800000000000011
+I won't do that.,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_966.mp4,112.68,114.1,1.4199999999999875
+Do you understand that?,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_967.mp4,116.04,117.38,1.3399999999999892
+can't let my mom be gone. on,0,29-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/29-24-1280x720_utterance_968.mp4,119.02,121.72,2.700000000000003
+"Ypresidio, rwyf hefyd eisiau diolch i UNESCO am y cymorth yma.",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_969.mp4,0.14,3.3,3.16
+Mae wedi golygu llawer i ni.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_970.mp4,3.34,4.92,1.58
+Diolch i chi i gyd am fod yma ar gyfer y cyfnod pwysig hwn.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_971.mp4,6.42,8.98,2.5600000000000005
+Mae 'r dynion o,0,3-25-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_972.mp4,9.58,10.42,0.8399999999999999
+o bob amgylch y byd wedi penderfynu i wneud cyd -dynion gwybodaeth yn briori yn eu bywydau a 'u myfyrwyr.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_973.mp4,10.46,16.6,6.140000000000001
+Diolch i chi am wneud y cymorth hwn.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_974.mp4,16.86,18.62,1.7600000000000016
+Gwnaethom fy ymgyrched â 'r ymgyrched ddwy flynedd yn ôl.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_975.mp4,19.6,22.12,2.52
+Roeddwn i bob amser yn fyddo 'n mynd. Ac,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_976.mp4,22.28,24.28,2.0
+rwy 'n gwybod pa mor ffodus rwy 'n cael y cyfle i wneud hynny.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_977.mp4,24.62,27.84,3.219999999999999
+"Roedd Brown yn fy mhobl, fy gymuned. Ac",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_978.mp4,29.1,31.88,2.7799999999999976
+"Ac fe wnaethon i 'r syniadau a 'r profiadau rwy 'n eu cael yno i bawb o fy nghyfraith cymdeithasol, i fy mhobl gwaith, i",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_979.mp4,32.12,38.44,6.32
+"i fy gwleidyddiaeth, i",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_980.mp4,38.62,39.96,1.3400000000000034
+i bob agwedd o fy bywyd.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_981.mp4,40.22,41.9,1.6799999999999995
+Rwy 'n gwybod bod fy mhobl ymgyrched â 'r ymgyrched wedi sylweddoli pwy ydw i.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_982.mp4,42.94,46.32,3.3800000000000026
+"Ac wrth gwrs, mae",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_983.mp4,47.3,48.18,0.8800000000000026
+mae 'n ei wneud i lawer o bobl.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_984.mp4,48.38,49.62,1.2399999999999949
+Ond beth os mae ein profiad o 'r ymgyrched yn dangos i ni nad yw pobl ddim yn deall arweinyddiaeth?,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_985.mp4,50.88,55.14,4.259999999999998
+"Beth os yn dangos i ni fod, ie, gall",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_986.mp4,56.22,57.78,1.5600000000000025
+"gall pobl ddysgu,",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_987.mp4,58.08,59.32,1.240000000000002
+ond dydyn nhw ddim ar ôl cymryd seminar?,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_988.mp4,59.92,61.3,1.3799999999999957
+"Beth os, fel y mae 'n dal i mewn llawer o leoedd o 'r byd, mae 'n ddangos i ni nad yw pobl ddim yn deall yno o 'r cyfan?",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_989.mp4,62.52,68.54,6.020000000000003
+"Beth os, fel yw 'r achos yn llawer o unigolion, rydyn ni 'n cael y neges yw bod gwahanol gwahanol gwahanol yn dweud nad yw gwahanol gwahanol.",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_990.mp4,69.98,77.78,7.799999999999997
+rydyn ni 'n gwybod os,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_992.mp4,81.22,82.24,1.019999999999996
+"os byddwch chi 'n newid profiadau 'r myfyrwyr fel eu bod ganddynt ddisgwylion gwahanol o 'r byd o 'u gilydd,",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_993.mp4,82.86,89.1,6.239999999999995
+ddisgwylion o 'r,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_994.mp4,89.5,90.86,1.3599999999999994
+"'r cyd -leithydd,",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_995.mp4,91.12,92.06,0.9399999999999976
+bydd y cymdeithas yn newid.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_996.mp4,92.9,94.4,1.5
+"Wrth i ni ddod i ffwrdd i ffwrdd i ddysgu ar y lleoedd rydyn ni wedi gweithio 'n anodd i 'w gael, rhaid",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_997.mp4,95.68,102.04,6.359999999999999
+rhaid i ni ddim gweld neu profiad gwahanol gwahanol.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_998.mp4,102.58,105.56,2.980000000000004
+"Rhaid i ni weld ymddiriedaeth cyflawn,",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_999.mp4,106.64,108.54,1.9000000000000057
+arweinyddiaeth a,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1000.mp4,109.12,109.9,0.7800000000000011
+phay.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1001.mp4,110.48,111.26,0.7800000000000011
+Mae 'r profiad y brifysgol yn rhaid i ddweud i ddynion eu bod eu pwerau ymddygiad yn cael eu gwerthu ac,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1002.mp4,113.2,117.42,4.219999999999999
+"nid yn unig hynny,",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1003.mp4,117.68,118.8,1.1199999999999903
+ond eu bod nhw 'n perthnas o fewn y rhedeg y brifysgol ei hun.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1004.mp4,119.36,122.86,3.5
+"Ac yn bwysig iawn, mae 'r",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1005.mp4,123.92,126.08,2.1599999999999966
+'r profiad yn rhaid i ni wneud yn glir bod,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1006.mp4,126.5,129.44,2.9399999999999977
+"diogelwch i ddynion,",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1007.mp4,129.68,131.64,1.9599999999999795
+fynoriadau a,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1008.mp4,131.84,132.92,1.079999999999984
+"phob un sy 'n bosibl yn fawr yn hawdd,",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1009.mp4,133.12,135.46,2.3400000000000034
+"hawdd, a",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1010.mp4,135.72,136.74,1.0200000000000102
+a ddim yn gyfrifoldeb.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1011.mp4,137.08,138.3,1.2199999999999989
+Hawdd sy 'n cael ei ddysgu gan gymuned sy 'n credu a 'i gefnogi gan y bywydau ac sy,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1012.mp4,138.94,143.8,4.860000000000014
+sy 'n cydnabod pan fydd,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1013.mp4,144.46,145.8,1.3400000000000034
+"fydd diogelwch un person yn cael ei ddysgu, mae",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1014.mp4,145.98,148.48,2.5
+pawb yn teimlo ei diogelwch ei hun yn cael,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1015.mp4,148.9,151.4,2.5
+cael ei ddysgu.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1016.mp4,151.68,152.64,0.9599999999999796
+Bydd y brifysgol yn lle,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1017.mp4,154.98,156.3,1.3200000000000216
+lle o ddifrif sy 'n cymryd,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1018.mp4,156.98,158.88,1.9000000000000057
+cymryd gweithredu o ran pob ffordd,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1019.mp4,159.44,161.34,1.9000000000000057
+ffordd o,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1020.mp4,161.38,161.9,0.5200000000000102
+weithredaeth.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1021.mp4,162.2,162.72,0.5200000000000102
+Dyna pam mae 'n,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1022.mp4,164.82,165.98,1.1599999999999966
+'n credu,0,3-25-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1023.mp4,166.02,167.02,1.0
+"dylen ni gadael y brifysgol yn credu i ddod i mewn, i",0,3-25-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1024.mp4,167.24,170.24,3.0
+ddynnu am a chyfforddi,0,3-25-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1025.mp4,170.66,171.88,1.2199999999999989
+chyfforddi cymdeithasau o ddealltwriaeth.,0,3-25-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1026.mp4,172.02,174.0,1.979999999999989
+ddealltwriaeth.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1027.mp4,174.18,175.74,1.5600000000000025
+Cymdeithasau o ddealltwriaeth dealltwriaeth mewn pob ffordd ac mae 'r brifysgolion yn cael y pwer i fod,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1028.mp4,177.22,181.46,4.240000000000009
+fod yn gatalist cyffredinol ar,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1029.mp4,181.7,183.06,1.3600000000000136
+gyfer y newid hynny.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1030.mp4,183.38,184.5,1.1200000000000043
+Mae ein 10 gwarchodwyr effaith wedi,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1031.mp4,185.7,187.36,1.660000000000025
+"wedi gwneud y cymhwyso ac gyda 'u gwaith, rydym",0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1032.mp4,187.7,189.92,2.219999999999999
+rydym yn gwybod y byddan nhw 'n ysbrydoli myfyrwyr a chyfranegau eraill ac ysgolion ar draws y byd i,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1033.mp4,190.26,195.04,4.780000000000001
+wneud yn well.,0,3-25-1920x1080.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1034.mp4,195.4,196.4,1.0
+"Rwy 'n hapus i gyflwyno 'r adroddiad hwn ar eu cynnydd, ac rwy 'n ymddygiadol i glywed beth sy 'n nesaf.",0,3-25-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1035.mp4,197.54,203.48,5.939999999999998
+Diolch yn fawr iawn.,0,3-25-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/3-25-1920x1080_utterance_1036.mp4,203.96,205.1,1.1399999999999864
+I was slipping away.,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1078.mp4,7.68,9.02,1.34
+Life was leaving me.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1079.mp4,13.5,14.74,1.2400000000000002
+I wasn't afraid.,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1080.mp4,20.36,21.76,1.400000000000002
+There was something I was meant to do.,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1081.mp4,26.62,28.92,2.3000000000000007
+Somewhere I was meant to be.,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1082.mp4,32.88,34.3,1.4199999999999946
+I was in the great blue horizon between,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1083.mp4,39.6,41.58,1.9799999999999969
+between heaven and earth.,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1084.mp4,42.08,43.28,1.2000000000000028
+Days were unchanging.,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1085.mp4,45.24,46.2,0.9600000000000009
+unchanging.,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1086.mp4,48.64,49.8,1.1599999999999966
+every night I dreamed the same dream.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1087.mp4,52.14,54.84,2.700000000000003
+smell of damp,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1088.mp4,60.82,61.66,0.8399999999999963
+damp earth.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1089.mp4,62.54,63.42,0.8800000000000026
+The scream that no one heard.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1090.mp4,66.48,68.38,1.899999999999992
+would hear them calling.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1091.mp4,74.58,75.92,1.3400000000000034
+The voices of the dead.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1092.mp4,77.26,78.54,1.2800000000000011
+I wanted to follow them so,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1093.mp4,80.16,81.74,1.5799999999999983
+I could find a way out.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1094.mp4,82.78,84.22,1.4399999999999975
+they would always,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1095.mp4,86.2,86.78,0.5799999999999983
+always lead me back to that same door.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1096.mp4,86.82,89.66,2.8400000000000034
+And I was afraid.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1097.mp4,93.6,94.78,1.1800000000000068
+"I knew if I went in there, I",0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1098.mp4,97.2,99.26,2.0600000000000023
+I might never come back out again. I,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1099.mp4,101.92,104.02,2.0999999999999943
+"I was afraid. I knew if I went in there, I might never come back out again. Nobody...",0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1100.mp4,110.24,111.18,0.940000000000012
+...nobody notices when,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1101.mp4,115.28,116.82,1.539999999999992
+when we leave.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1102.mp4,117.44,118.48,1.0400000000000065
+I mean the,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1103.mp4,120.18,120.88,0.6999999999999886
+moment we really choose,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1104.mp4,123.34,124.6,1.259999999999991
+choose to go.,0,36-24-1280x720.mp4,sadness,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1105.mp4,125.14,126.22,1.0799999999999983
+I best you might hear a,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1106.mp4,129.92,131.44,1.5200000000000102
+whisper.,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1107.mp4,132.6,133.4,0.8000000000000114
+or a wave of a whisper.,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1108.mp4,134.82,136.64,1.8199999999999927
+name is Salmon.,0,36-24-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1109.mp4,144.9,146.22,1.3199999999999932
+Like the fish.,0,36-24-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1110.mp4,148.68,149.7,1.0199999999999818
+First name's Susie.,0,36-24-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1111.mp4,150.92,152.3,1.380000000000024
+I was 14 years old when I was murdered on,0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1112.mp4,154.18,156.84,2.6599999999999966
+"on December 6, 1973.",0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1113.mp4,157.14,159.84,2.700000000000017
+"was here for a moment,",0,36-24-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1114.mp4,163.7,165.2,1.5
+then I was gone.,0,36-24-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/36-24-1280x720_utterance_1115.mp4,167.78,168.88,1.0999999999999943
+bags and,0,377.mp4,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/377.mp4,0.54,0.84,0.2999999999999999
+be my first time watching Captain,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1144.mp4,3.5,4.94,1.4400000000000004
+Captain America Winter Soldier official,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1145.mp4,6.2,7.96,1.7599999999999998
+official trailer.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1146.mp4,8.84,9.34,0.5
+Excited.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1147.mp4,13.5,14.36,0.8599999999999994
+"Coming up on the drop zone, Cap. Did",0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1148.mp4,21.8,23.56,1.759999999999998
+"Did you do anything fun Saturday night? Well, all the guys in my barbershop quartet are dead, so... No,",0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1149.mp4,23.64,28.78,5.140000000000001
+"No, not really.",0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1150.mp4,28.88,29.64,0.7600000000000016
+"You know, if you ask Kristen out from statistics, she'd probably say yes.",0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1151.mp4,30.8,34.12,3.3199999999999967
+That's why I don't ask.,0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1152.mp4,34.38,35.46,1.0799999999999983
+Too shy or too scared?,0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1153.mp4,35.74,37.64,1.8999999999999984
+Too busy.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1154.mp4,38.3,39.08,0.7800000000000011
+Is he wearing a parachute?,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1155.mp4,41.0,42.28,1.2800000000000011
+No.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1156.mp4,42.74,43.32,0.5799999999999983
+"No, he wasn't.",0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1157.mp4,44.62,45.38,0.7600000000000051
+He's joined S .H .I .E .L .D. to protect people.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1158.mp4,52.0,53.4,1.3999999999999986
+"Captain,",0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1159.mp4,54.74,55.42,0.6799999999999997
+"to build a better world,",0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1160.mp4,56.1,57.5,1.3999999999999986
+sometimes means turning the old one down.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1161.mp4,57.76,60.1,2.3400000000000034
+Check out our,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1163.mp4,68.76,69.44,0.6799999999999926
+they'reat,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1164.mp4,69.96,71.9,1.940000000000012
+.com,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1165.mp4,72.32,73.96,1.6400000000000006
+.com and also the show's we do interact İnsult,0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1166.mp4,74.46,75.74,1.2800000000000011
+"İnsult Subtitles. I might be wrong. It's our whole estás. Anyway,",0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1167.mp4,76.06,77.76,1.7000000000000028
+thanks for watching. I'll,0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1168.mp4,79.02,80.82,1.7999999999999972
+get Who's gonna do this part of it? Next game? You gonna do Matt whatever.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1169.mp4,83.5,86.38,2.8799999999999955
+"I hope you watch. Get ready, After the crime.",0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1170.mp4,88.72,90.8,2.0799999999999983
+The shield takes the world as it is. Not as we'd like it to be. This,0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1171.mp4,91.72,95.4,3.680000000000007
+This isn't freedom.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1172.mp4,95.66,96.44,0.7800000000000011
+This is fear.,0,377.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1173.mp4,96.98,97.76,0.7800000000000011
+You need to keep both eyes open.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1174.mp4,100.72,103.2,2.480000000000004
+"Before we get started,",0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1175.mp4,103.98,104.94,0.9599999999999936
+does anyone want to get out?,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1176.mp4,105.9,107.2,1.2999999999999972
+Your work has been a gift to mankind.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1177.mp4,111.82,114.72,2.9000000000000057
+You've shaped the century.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1178.mp4,116.4,117.78,1.3799999999999957
+I need you to do it one more time.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1179.mp4,119.02,120.76,1.740000000000009
+Gear up.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1180.mp4,129.44,129.96,0.5200000000000102
+It's time.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1181.mp4,131.06,131.56,0.5
+Oh!,0,377.mp4,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/377.mp4,160.16,161.24,1.0800000000000125
+Oh!,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1182.mp4,161.68,162.5,0.8199999999999932
+Good.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1184.mp4,166.34,167.06,0.7199999999999989
+Good.,0,377.mp4,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/377.mp4,167.92,168.86,0.940000000000026
+Really good.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1186.mp4,170.08,170.94,0.8599999999999852
+Wow.,0,377.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/377_utterance_1187.mp4,171.2,171.48,0.2800000000000011
+I'm Chloe and I'll be doing tooth fairy sanitizer.,0,38-30-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1188.mp4,2.84,7.08,4.24
+The other day I lost a tooth and,0,38-30-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1189.mp4,8.22,10.52,2.299999999999999
+and my mom told me to put it under my pillow so in the middle of the night the tooth fairy could come and,0,38-30-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1190.mp4,10.96,15.3,4.34
+and take my tooth and replace it with some cash.,0,38-30-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1191.mp4,15.52,17.7,2.18
+"Okay, I",0,38-30-1920x1080.mp4,joy,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/38-30-1920x1080.mp4,18.32,18.84,0.5199999999999996
+I have some questions and concerns here.,0,38-30-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1192.mp4,18.94,21.4,2.4599999999999973
+What?,0,38-30-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1193.mp4,21.5,22.6,1.1000000000000014
+"What does this little tooth freak do with all these teeth? See, according",0,38-30-1920x1080.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1194.mp4,23.1,26.36,3.259999999999998
+"according to my calculations, a",0,38-30-1920x1080.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1195.mp4,26.48,28.5,2.02
+a child loses a tooth every .08 seconds and,0,38-30-1920x1080.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1196.mp4,29.7,33.56,3.860000000000003
+and in different parts of the world.,0,38-30-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1197.mp4,34.4,36.04,1.6400000000000006
+Which brings me to number two.,0,38-30-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1198.mp4,37.42,39.76,2.3399999999999963
+How does this little tooth freak get from place to place?,0,38-30-1920x1080.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1199.mp4,42.46,46.24,3.780000000000001
+"I mean, I get how Santa does it but at least he has a route.",0,38-30-1920x1080.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1200.mp4,47.3,50.34,3.0400000000000063
+And number three.,0,38-30-1920x1080.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1201.mp4,53.02,54.12,1.0999999999999943
+If this,0,38-30-1920x1080.mp4,disgust,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/38-30-1920x1080.mp4,55.68,56.02,0.3400000000000034
+this tooth,0,38-30-1920x1080.mp4,disgust,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/38-30-1920x1080.mp4,56.3,56.7,0.4000000000000057
+"tooth fairy is touching other people's teeth all night, what",0,38-30-1920x1080.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1202.mp4,56.86,61.54,4.68
+"what about the germs? I mean, some",0,38-30-1920x1080.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1203.mp4,62.3,64.1,1.7999999999999972
+"some of these kids are obviously losing their teeth because they don't take good care of them. So, eww.",0,38-30-1920x1080.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1204.mp4,64.16,70.82,6.659999999999997
+"Next time I lose a tooth, I'm going to put some anti -material hand sanitizer in through my pillow.",0,38-30-1920x1080.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/38-30-1920x1080_utterance_1205.mp4,71.94,79.58,7.640000000000001
+"Come on, nigga!",0,394.mp4,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/394.mp4,2.42,2.98,0.56
+That is Akisan.,0,394.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1259.mp4,11.08,12.44,1.3599999999999994
+That is a savage style. Yeah.,0,394.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1260.mp4,20.44,23.5,3.0599999999999987
+Damn.,0,394.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1261.mp4,26.86,29.78,2.9200000000000017
+"Oh,",0,394.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1262.mp4,34.7,35.38,0.6799999999999997
+Yo!,0,394.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1263.mp4,37.58,40.02,2.440000000000005
+now he looks like Blanket with that hair almost.,0,394.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1264.mp4,44.16,46.88,2.720000000000006
+Jesus Christ!,0,394.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1265.mp4,47.34,49.34,2.0
+"Ho, ho, ho, ho, ho! Ho, ho, ho, ho, ho!",0,394.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1266.mp4,58.56,60.96,2.3999999999999986
+He was shredding King to,0,394.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1268.mp4,73.88,76.88,3.0
+to ribbons in the corner.,0,394.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1269.mp4,77.28,79.32,2.039999999999992
+Did y 'all see that?,0,394.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/394_utterance_1270.mp4,79.64,80.32,0.6799999999999926
+What is this,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1318.mp4,4.46,4.9,0.4400000000000004
+screen for ants?,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1319.mp4,5.22,6.12,0.9000000000000004
+"In the beginning, there",0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1320.mp4,6.78,7.72,0.9399999999999996
+there was nothing.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1321.mp4,8.12,9.08,0.9600000000000009
+An infinite void.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1322.mp4,9.66,11.0,1.34
+"Then, in",0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1323.mp4,12.14,12.58,0.4399999999999995
+"in an instant,",0,398.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1324.mp4,12.7,13.64,0.9400000000000012
+everything known to man came into being.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1325.mp4,14.38,17.12,2.74
+The Big Bang.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1326.mp4,20.36,21.32,0.9600000000000009
+The birth of time itself.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1327.mp4,22.08,23.56,1.4800000000000004
+Chaos and beauty.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1328.mp4,24.24,25.62,1.3800000000000026
+A beauty that created infinite galaxies.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1329.mp4,26.52,29.4,2.879999999999999
+Galaxies that would one day create the unimaginable.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1330.mp4,30.3,33.56,3.2600000000000016
+"Life, but",0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1331.mp4,34.98,35.96,0.980000000000004
+but even more incredible.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1332.mp4,36.44,38.18,1.740000000000002
+The human brain.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1333.mp4,39.98,41.08,1.1000000000000014
+The pinnacle of billions of years of evolution.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1334.mp4,43.54,46.76,3.219999999999999
+The brain that possesses the power of reason.,0,398.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1335.mp4,48.2,50.9,2.699999999999996
+And the ability to ponder life's most ancient riddles.,0,398.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1336.mp4,52.12,56.3,4.18
+Why are we here?,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1337.mp4,56.9,59.12,2.219999999999999
+Is there intelligence beyond our galaxy?,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1338.mp4,60.8,63.46,2.660000000000004
+The one question that,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1340.mp4,65.92,66.94,1.019999999999996
+that has puzzled mankind since,0,398.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1341.mp4,67.56,69.4,1.840000000000004
+since the beginning of time.,0,398.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1342.mp4,69.74,71.3,1.5600000000000025
+"God exists,",0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1343.mp4,75.62,76.58,0.9599999999999936
+why did he make ugly people?,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1344.mp4,77.28,78.34,1.0600000000000025
+"hundred lander? No, Terry, two",0,398.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1345.mp4,82.72,84.48,1.7600000000000051
+two lander. It's,0,398.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1346.mp4,84.76,85.6,0.8399999999999892
+It's like a pun. But I don't spell my name with a two.,0,398.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1347.mp4,86.04,88.9,2.8599999999999994
+Fine. How about...,0,398.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1348.mp4,89.3,90.92,1.6200000000000043
+Zoolander I -I? No. Zoolander II. But with all my numerals. But,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1349.mp4,92.28,98.3,6.019999999999996
+But I'm not Italian.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1350.mp4,98.38,99.4,1.0200000000000102
+"Jesus, you",0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1351.mp4,100.2,100.74,0.539999999999992
+you are so freaking stupid. It's insane.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1352.mp4,101.02,103.8,2.780000000000001
+"Yes. Yes,",0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1353.mp4,110.2,110.68,0.480000000000004
+"Yes, yes, yes, yes.",0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1354.mp4,110.88,112.66,1.7800000000000011
+Yes.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1355.mp4,112.84,113.54,0.7000000000000028
+Yes.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1356.mp4,114.14,114.74,0.5999999999999943
+Zoolander.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1357.mp4,115.32,116.1,0.7800000000000011
+I'm about it.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1358.mp4,117.68,118.34,0.6599999999999966
+don't know when the actual trailer is.,0,398.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/398_utterance_1359.mp4,119.46,121.04,1.5800000000000125
+are we doing this?,0,426.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1395.mp4,0.2,1.22,1.02
+We've got some work to do.,0,426.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1396.mp4,1.66,2.98,1.32
+Yes! I love all of them.,0,426.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1397.mp4,6.3,9.32,3.0200000000000005
+"We shouldn't be up here, Drac. Who's ready to fly? Me, me, like a superhero. Better, like a vampire. I",0,426.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1398.mp4,12.5,21.06,8.559999999999999
+I don't know about this. He's half human. Maybe the kid isn't supposed to fly. This is how they learn. You throw them and they figure it out.,0,426.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1399.mp4,21.38,29.58,8.2
+It's how I was taught. I want to fly now. You know Grandpa's right here if you need him. I can't watch this. Please don't. Here we go!,0,426.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1400.mp4,30.14,41.04,10.9
+go! His hair is on point.,0,426.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1401.mp4,41.18,44.06,2.8800000000000026
+He's still not flying. He will.,0,426.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1402.mp4,48.3,50.6,2.3000000000000043
+Still not. It'll,0,426.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1403.mp4,52.02,52.8,0.779999999999994
+It'll happen.,0,426.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1404.mp4,52.96,53.94,0.9799999999999968
+This is a tall tower. That's why it's cool.,0,426.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1405.mp4,55.78,57.98,2.199999999999996
+You should get him.,0,426.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1406.mp4,58.38,59.78,1.3999999999999986
+Drac! I did that my first time.,0,426.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1407.mp4,60.44,62.76,2.3200000000000003
+He's getting too close to the ground.,0,426.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1408.mp4,63.74,65.16,1.4199999999999946
+You know what? He's not going to fly.,0,426.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1409.mp4,66.78,68.62,1.840000000000004
+Oh man!,0,426.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1410.mp4,69.3,70.94,1.6400000000000006
+He hauling ass.,0,426.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1411.mp4,71.42,72.68,1.2600000000000051
+ass.,0,426.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1412.mp4,72.78,73.54,0.7600000000000051
+He went jeep.,0,426.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1413.mp4,73.68,76.26,2.5799999999999983
+We're going to need more time.,0,426.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1414.mp4,76.88,78.0,1.1200000000000043
+"rolling, bitch. We're",0,426.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1415.mp4,89.04,90.28,1.2399999999999949
+We're going to have to stop,0,426.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1416.mp4,90.62,91.92,1.2999999999999972
+man!,0,426.mp4,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/426.mp4,93.12,93.74,0.6199999999999903
+Oh my god.,0,426.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/426_utterance_1417.mp4,94.82,96.14,1.3200000000000074
+"Hey YouTube, this is James, and I'm about to react to",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1418.mp4,0.44,3.32,2.88
+"to the trailer trailer of Deadpool. Oh, I am so excited. So, you know what? Screw this intro, let's just go ahead and play it right now.",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1419.mp4,3.48,10.84,7.359999999999999
+Wow.,0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1420.mp4,11.42,11.86,0.4399999999999995
+In a world,0,428.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1421.mp4,15.02,15.5,0.4800000000000004
+"divided by fear,",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1422.mp4,16.62,18.28,1.66
+one man must stand,0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1423.mp4,19.02,20.34,1.3200000000000005
+against the forces of darkness. From,0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1424.mp4,22.34,24.52,2.18
+"From the studio that inexplicably sewed his fucking mouth shut the first time, comes five -time Academy Award viewer Ryan",0,428.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1425.mp4,25.16,32.58,7.419999999999998
+-harmony date with destiny. Ladies,0,428.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1426.mp4,35.24,37.42,2.18
+"Ladies and gentlemen, I",0,428.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1427.mp4,37.88,38.84,0.9600000000000009
+I give you...,0,428.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1428.mp4,39.22,39.84,0.6200000000000045
+Deadpool.,0,428.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1429.mp4,41.82,42.52,0.7000000000000028
+"So, get ready to blow out your collective sphincters, cause my trailer is coming.",0,428.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1430.mp4,43.2,48.62,5.419999999999995
+Tomorrow.,0,428.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1431.mp4,50.4,50.92,0.5200000000000031
+"Oh, tomorrow!",0,428.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1432.mp4,51.3,53.22,1.9200000000000017
+"Oh, man!",0,428.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1433.mp4,54.22,54.94,0.7199999999999989
+"Wow, that was pretty",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1434.mp4,57.02,58.22,1.1999999999999955
+"pretty brief, but wow, that was just wicked.",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1435.mp4,58.4,60.28,1.8800000000000023
+wicked. Oh my gosh.,0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1436.mp4,60.32,61.58,1.259999999999998
+"Well, right now, I don't know what to say right now, because there wasn't too much for me to work with just right there. It was just a brief momentary monologue of Deadpool right there, but so far, that was pretty wicked. I liked it a lot. So, the trailer's coming out tomorrow, so I will definitely do a reaction video to that.",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1437.mp4,67.52,84.16,16.64
+"Well, that's... I mean, so far, that's just, you know, my reaction to this teeny",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1438.mp4,84.26,88.24,3.9799999999999898
+"teeny tiny trailer of Deadpool, but...",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1439.mp4,88.5,90.48,1.980000000000004
+"I'll put the link in the description below so you all can check it out, but... Wow.",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1440.mp4,90.82,93.44,2.6200000000000045
+Wow.,0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1441.mp4,93.7,94.34,0.6400000000000006
+so psyched for this.,0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1442.mp4,95.44,97.12,1.6800000000000068
+"So, well,",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1443.mp4,97.44,98.4,0.960000000000008
+"there you all have it, but...",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1444.mp4,98.5,100.2,1.7000000000000028
+"will keep you posted on my upcoming reaction to the Deadpool trailer, so... Keep",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1445.mp4,100.86,104.9,4.040000000000006
+"your eyes peeled, and you all take care.",0,428.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/428_utterance_1446.mp4,105.14,106.86,1.7199999999999989
+"In the beginning, there",0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1447.mp4,5.88,7.0,1.12
+there was nothing. An,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1448.mp4,7.22,8.3,1.080000000000001
+An infinite void.,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1449.mp4,8.52,10.6,2.08
+"in an instant,",0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1450.mp4,11.88,12.58,0.6999999999999993
+everything of the man came,0,440.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1451.mp4,13.58,15.16,1.58
+came into being.,0,440.mp4,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/440.mp4,15.32,16.28,0.9600000000000009
+What?,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1452.mp4,17.74,18.42,0.6800000000000033
+The Big Bang.,0,440.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1453.mp4,19.58,20.4,0.8200000000000003
+The birth of time itself.,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1454.mp4,21.24,22.76,1.5200000000000031
+Chaos and beauty.,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1455.mp4,23.48,24.74,1.259999999999998
+The beauty that created infinite galaxies.,0,440.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1456.mp4,25.72,28.76,3.0400000000000027
+Galaxies that would one day create the unimaginable.,0,440.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1457.mp4,29.26,32.94,3.679999999999996
+"Life, but even more incredible.",0,440.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1458.mp4,33.66,37.28,3.620000000000005
+The human brain.,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1459.mp4,39.18,40.5,1.3200000000000005
+pinnacle of billions of years of evolution.,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1460.mp4,42.78,45.94,3.1599999999999966
+The brain that created the universe. The brain that possesses the power of reason.,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1461.mp4,47.42,49.98,2.559999999999995
+And the ability to ponder life's most ancient riddles.,0,440.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1462.mp4,51.3,55.38,4.080000000000005
+Why are we here?,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1463.mp4,56.22,57.58,1.3599999999999994
+Is there intelligent life beyond our galaxy?,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1464.mp4,59.76,63.56,3.800000000000004
+Or the one question that,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1465.mp4,65.18,66.58,1.3999999999999917
+that has puzzled mankind since,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1466.mp4,66.74,68.54,1.8000000000000114
+since the beginning of time?,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1467.mp4,68.94,70.6,1.6599999999999966
+God exists. Shit. Why did he make ugly people?,0,440.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1468.mp4,74.94,77.94,3.0
+Ray,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1472.mp4,86.4,88.32,1.9199999999999875
+Ray HKBHJ,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1473.mp4,88.4,89.02,0.6199999999999903
+HKBHJ This,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1474.mp4,89.24,90.08,0.8400000000000034
+This WOODESHIT is so tuu pues haa,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1475.mp4,91.42,98.64,7.219999999999999
+haa,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1476.mp4,99.34,99.88,0.539999999999992
+haa,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1477.mp4,100.32,101.4,1.0800000000000125
+haa - What?,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1478.mp4,102.08,103.0,0.9200000000000016
+"Actually guys, what",0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1479.mp4,112.78,114.44,1.6599999999999966
+what I get in this trailer is,0,440.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/440_utterance_1480.mp4,114.62,117.3,2.6799999999999926
+"So we're driving. Vroom,",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1481.mp4,6.1,7.2,1.1000000000000003
+"Vroom, vroom, vroom, vroom.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1482.mp4,7.34,8.66,1.3200000000000005
+"Okay, so it's a father driving with his daughter. She's holding her teddy bear.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1483.mp4,10.72,15.14,4.42
+Aw.,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1484.mp4,15.86,16.6,0.740000000000002
+She's asleep.,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1485.mp4,17.1,17.72,0.6199999999999974
+"Oh, that's so cute.",0,5-60-1920x1080-4.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1486.mp4,18.2,20.26,2.0600000000000023
+"Oh, no. Oh, no, no, no.",0,5-60-1920x1080-4.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1487.mp4,22.34,23.94,1.6000000000000014
+"Oh, no, they got in an accident.",0,5-60-1920x1080-4.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1488.mp4,25.92,27.16,1.2399999999999984
+What? Now they're in a boat?,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1489.mp4,33.54,34.88,1.3400000000000034
+confused.,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1490.mp4,36.96,37.54,0.5799999999999983
+"Okay, so he's sailing. He's sailing.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1491.mp4,37.9,40.48,2.5799999999999983
+"Oh, no. She's on a little rafty.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1492.mp4,44.14,45.94,1.7999999999999972
+You gotta save her. She's on a little rafty.,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1493.mp4,46.46,48.78,2.3200000000000003
+These animations are so beautiful. How do people do this?,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1494.mp4,51.78,54.82,3.039999999999999
+"Okay, so he's dreaming that, clearly.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1495.mp4,60.96,63.56,2.6000000000000014
+They've been hit. The police are coming.,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1496.mp4,66.44,68.52,2.0799999999999983
+Okay.,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1497.mp4,72.44,72.98,0.5400000000000063
+"Oh, no. He's throwing the bear so she can catch the bear.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1498.mp4,73.84,76.22,2.3799999999999955
+"Okay, she's caught it. Okay, good. Now he just needs to pull her in. He just needs to pull her in.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1499.mp4,77.0,80.44,3.4399999999999977
+"Oh, no. Oh,",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1500.mp4,87.66,88.66,1.0
+"Oh, no. Okay, so they're trying to revive him.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1501.mp4,96.64,98.34,1.7000000000000028
+"Oh, no, no. She's slipping through his hands.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1502.mp4,101.92,103.46,1.539999999999992
+"Okay, so he...",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1503.mp4,113.34,113.92,0.5799999999999983
+dives in to save her.,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1504.mp4,116.64,118.12,1.480000000000004
+"Oh, no. He dives in to be with her, not to save her.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1505.mp4,126.5,128.92,2.4199999999999875
+It's so sad.,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1506.mp4,146.26,147.0,0.7400000000000091
+"It's really hard to react to these guys, because they're so emotional.",0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1507.mp4,147.6,150.98,3.3799999999999955
+I don't think I can watch anymore. I'm sorry. I had a huge list of other ones to watch.,0,5-60-1920x1080-4.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/5-60-1920x1080-4_utterance_1508.mp4,158.96,163.04,4.079999999999984
+Hello everyone! Welcome,0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1547.mp4,0.28,1.32,1.04
+"best Japanese lesson in the galaxy! Today, I'm gonna teach you guys how to complain in Japanese! Let's go! Stop it!",0,67-24-640x360.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1548.mp4,1.5,37.18,35.68
+"Let's talk about pain! When something hurts, you say, Itai! Itai! You can say, Ite! too,",0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1549.mp4,37.64,44.44,6.799999999999997
+"too, but that's more of a guy thing to say. So if someone hits you, you can say, Ite! Itai! Or you can also say, Ite!",0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1550.mp4,44.6,50.92,6.32
+to,0,67-24-640x360.mp4,joy,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/67-24-640x360.mp4,51.9,52.32,0.4200000000000017
+"emphasize the pain. The next one is, I'm tired.",0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1551.mp4,52.76,56.36,3.6000000000000014
+Tsukareta.,0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1552.mp4,56.58,57.26,0.6799999999999997
+Tsukareta.,0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1553.mp4,57.7,58.26,0.5599999999999952
+Tsukareta.,0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1554.mp4,58.84,59.68,0.8399999999999963
+Tsukareta is being tired in general. Darui. Darui.,0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1555.mp4,60.3,63.8,3.5
+Darui. Darui is more of that feeling when you feel like something is pulling you down to the ground. You're feeling like a slug. It's,0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1556.mp4,63.88,71.3,7.419999999999995
+"It's when you feel a little bit more lazy, but you don't know where that laziness and",0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1557.mp4,71.58,75.6,4.019999999999996
+"and that gravity is coming from. When you're sleepy, you can say, Nemui. Nemui. Nemui. Yup, so that's about it. Now",0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1558.mp4,75.82,83.86,8.040000000000006
+Now for all you lazy -ass motherf***ers,0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1559.mp4,84.06,86.1,2.039999999999992
+"motherf***ers who are saying, Joe! I can't memorize anything that you teach me. Well, here's one word that you'll definitely be able to memorize. Joe's ultra easy lesson of the day! This is how you say teeth in Japanese. Ha.",0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1560.mp4,86.3,99.46,13.159999999999997
+Easy enough? Ha.,0,67-24-640x360.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1561.mp4,102.62,103.46,0.8399999999999892
+That's the sound that you make when you're showing your teeth. Ha!,0,67-24-640x360.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1562.mp4,104.68,107.6,2.9199999999999875
+"Alright, until next time, the best Japanese lesson in the galaxy. Matane.",0,67-24-640x360.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1563.mp4,108.84,113.48,4.640000000000001
+Otsukare.,0,67-24-640x360.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/67-24-640x360_utterance_1564.mp4,114.14,115.44,1.2999999999999972
+What is up guys AbrahamFolx here bringing to you another reaction video and,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1622.mp4,1.64,6.16,4.5200000000000005
+this time after a long time actually I'm gonna be reacting to another Caillou YouTube poop this,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1623.mp4,6.46,12.04,5.579999999999999
+this one is also by Poops for the World the same guy who did Caillou hates small children so I,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1624.mp4,12.28,16.82,4.540000000000001
+I know it's been a long time since I've reacted to a Caillou YouTube poop but let's,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1625.mp4,17.1,20.58,3.479999999999997
+let's get,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1626.mp4,20.72,21.2,0.4800000000000004
+get it over with I guess so,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1627.mp4,21.48,22.66,1.1799999999999995
+yeah without further ado let's get started three,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1628.mp4,22.92,25.22,2.299999999999997
+three two,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1629.mp4,26.22,26.92,0.7000000000000028
+two one,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1630.mp4,27.02,27.72,0.6999999999999993
+one play,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1631.mp4,28.08,28.76,0.6800000000000033
+play,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1632.mp4,29.28,29.78,0.5
+not yay,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1633.mp4,35.84,36.54,0.6999999999999957
+green light that means stop very,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1634.mp4,43.1,45.12,2.019999999999996
+good Caillou no red,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1635.mp4,46.2,48.74,2.539999999999999
+red light now,0,8-30-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1636.mp4,49.44,50.3,0.8599999999999994
+now we can go that's,0,8-30-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1637.mp4,50.38,51.6,1.2199999999999989
+that's right what,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1638.mp4,51.92,52.9,0.9799999999999968
+what kind of teacher are you What kind of teacher are you?,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1639.mp4,53.1,54.82,1.7199999999999989
+you go that's what happens kids when you do bad teacher teach you things,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1640.mp4,57.82,61.26,3.4399999999999977
+things like red means go and green means stop you,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1641.mp4,61.36,63.7,2.3400000000000034
+die,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1642.mp4,64.38,64.76,0.3800000000000096
+these like all his memories now?,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1643.mp4,70.82,72.08,1.2600000000000051
+doll looks more realistic than they do,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1644.mp4,75.74,77.16,1.4200000000000017
+Caillou We don't know when he was born but Let go of that,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1645.mp4,78.54,82.82,4.279999999999987
+Leemay,0,8-30-1280x720.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1646.mp4,83.8,89.18,5.38000000000001
+It really,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1647.mp4,89.74,92.06,2.3200000000000074
+really irritates me South,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1648.mp4,92.32,93.64,1.3200000000000074
+South Park would say that right,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1649.mp4,94.08,95.7,1.6200000000000043
+right here people don't,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1650.mp4,96.18,97.16,0.9799999999999898
+don't have the Souls,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1651.mp4,97.46,98.08,0.6200000000000045
+Souls ok because,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1652.mp4,98.16,99.34,1.1800000000000068
+because we,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1653.mp4,100.22,100.9,0.6800000000000068
+we do we do have Souls all right,0,8-30-1280x720.mp4,fear,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1654.mp4,101.1,103.16,2.0600000000000023
+he's a ginger hahahah okay so you me loved I'm turning back amma Don't they remember the gingering?,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1655.mp4,104.16,113.22,9.060000000000002
+was unsettling?,0,8-30-1280x720.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1656.mp4,117.26,118.2,0.9399999999999976
+"Yeah, that was unsettling.",0,8-30-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1657.mp4,121.02,122.5,1.480000000000004
+That's some very dirty water. I used to be afraid to smoke weed.,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1658.mp4,122.58,125.98,3.4000000000000057
+Really?,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1659.mp4,126.34,127.16,0.8199999999999932
+I didn't like the idea of getting so high. What?,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1660.mp4,129.0,131.38,2.3799999999999955
+I like getting really high. Oh my god! The,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1661.mp4,131.72,134.1,2.3799999999999955
+The teacher telling her children or students to go smoke weed? I saw how much fun you and Leo were having. I,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1662.mp4,134.22,137.88,3.6599999999999966
+liked smoking weed too once I tried. So,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1663.mp4,138.34,140.76,2.4199999999999875
+So maybe you like the water slide if you give it a try. Why are you telling that to children?,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1664.mp4,141.02,145.16,4.139999999999986
+Caillou is very excited. What is his dad taking? Today he was going all fucking with Clementine's family. What? Come on Caillou! Time to go!,0,8-30-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1665.mp4,147.9,154.86,6.960000000000008
+Alright.,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1666.mp4,155.86,156.54,0.6799999999999784
+you for that Clementine. Bye.,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1668.mp4,158.82,160.48,1.6599999999999966
+Mom.,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1669.mp4,161.2,162.0,0.8000000000000114
+"Caillou was not quite ready to go. He had something he had to do. Yo, like a scientist twin. Oh! That",0,8-30-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1670.mp4,163.72,169.96,6.240000000000009
+was a nasty one. All set now?,0,8-30-1280x720.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1671.mp4,171.18,174.34,3.1599999999999966
+Have a nice day cock -woo. Seriously? Not,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1672.mp4,174.96,179.4,4.439999999999998
+this time.,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1673.mp4,179.62,181.8,2.180000000000007
+man.,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1674.mp4,182.96,183.38,0.4199999999999875
+Clementine and Billy were having fun fucking together. What? Aren't they siblings? Why,0,8-30-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1675.mp4,183.58,189.58,6.0
+Why don't you two fuck Caillou?,0,8-30-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1676.mp4,189.84,192.18,2.3400000000000034
+"Yeah, cause your siblings aren't enough. Let's play yellow cock.",0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1677.mp4,192.38,195.34,2.960000000000008
+"Yeah, enough sex jokes.",0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1678.mp4,195.84,197.62,1.7800000000000011
+Oh. Nice. No.,0,8-30-1280x720.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1679.mp4,198.28,201.62,3.3400000000000034
+That is called a pineapple Caillou. I think it would be better if Teddy stayed in the car Caillou.,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1680.mp4,202.64,207.82,5.180000000000007
+"Teddy will be fine here. He'll be waiting for you. Yeah, that's a really bad tantrum there Caillou. What?",0,8-30-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1681.mp4,213.44,219.08,5.640000000000015
+He's a teddy bear!,0,8-30-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1682.mp4,219.84,220.88,1.039999999999992
+Unless he's Ted. Oh no.,0,8-30-1280x720.mp4,surprise,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1683.mp4,222.02,224.14,2.119999999999976
+No. Are you okay?,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1684.mp4,225.92,226.7,0.7800000000000011
+Caillou. Look at your knee. It's mommy!,0,8-30-1280x720.mp4,neutral,/disk/scratch/s2751435/TelME_dataset/AffWild2_VAD/videos/batch1/8-30-1280x720.mp4,228.4,230.46,2.0600000000000023
+How does that work?,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1685.mp4,231.76,234.56,2.800000000000012
+"Look Caillou, you're",0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1686.mp4,235.22,236.64,1.4199999999999875
+you're bleeding.,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1687.mp4,236.88,237.58,0.700000000000017
+You're bleeding? Aren't you gonna put a bandaid on it? He started to feel much better. Don't pick at it.,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1688.mp4,238.0,244.36,6.360000000000014
+"Yeah, that's what you do.",0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1689.mp4,246.22,248.78,2.5600000000000023
+That's not how you handle a cut.,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1690.mp4,251.6,253.18,1.5800000000000125
+At all.,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1691.mp4,253.92,254.62,0.700000000000017
+Okay.,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1692.mp4,255.68,256.46,0.7799999999999727
+Yeah. I think in the episode it was strawberries or something.,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1693.mp4,256.88,260.88,4.0
+"I mean, or pineapples as the YouTube Poop said.",0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1694.mp4,261.52,263.74,2.220000000000028
+"But, ugh.",0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1695.mp4,264.16,264.54,0.3799999999999954
+ugh.,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1696.mp4,264.68,265.18,0.5
+"Pineapples aren't red, so whatever. Probably",0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1697.mp4,265.5,267.18,1.6800000000000068
+"Probably strawberries or something. But, that",0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1698.mp4,267.52,268.88,1.3600000000000136
+that was Caillou as a crack whore.,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1699.mp4,269.96,272.06,2.1000000000000227
+Somehow.,0,8-30-1280x720.mp4,anger,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1700.mp4,272.34,273.48,1.1400000000000432
+"mean, yeah.",0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1701.mp4,274.32,274.78,0.4599999999999795
+yeah.,0,8-30-1280x720.mp4,disgust,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1702.mp4,275.3,275.8,0.5
+"Okay. Well, yeah. This was kind of a short YouTube Poop. Some of the Caillou ones are among",0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1703.mp4,276.76,281.34,4.579999999999984
+"among the shorter ones. So, but,",0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1704.mp4,281.52,283.36,1.840000000000032
+"but, yeah. I hope you guys enjoyed my reaction. If you like the content on my channel, subscribe. Like the video. And I think that's it.",0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1705.mp4,283.62,290.38,6.759999999999991
+uh.,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1706.mp4,291.06,291.9,0.839999999999975
+Yeah. It's,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1707.mp4,293.64,294.06,0.4200000000000159
+"It's another Caillou one. What to expect. So, thank you",0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1708.mp4,294.18,296.64,2.4599999999999795
+you guys for watching. And I'll see you guys in the next reaction video.,0,8-30-1280x720.mp4,neutral,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1709.mp4,296.8,300.96,4.159999999999968
+Bye!,0,8-30-1280x720.mp4,joy,/home/s2751435/Work/msc/TelME/dataset/AffWild2/utterance_clips_test/8-30-1280x720_utterance_1710.mp4,301.86,303.04,1.1800000000000068
